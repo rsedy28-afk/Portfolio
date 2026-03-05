@@ -310,7 +310,6 @@ main {
   padding: 1.5rem 1.4rem;
   border-radius: 1.25rem;
   border: 1px solid rgba(255, 255, 255, 0.09);
-  /* тёмная тема: один край чуть серый, другой — почти чёрный */
   background: radial-gradient(circle at top left, #262626 0, #050505 70%);
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7);
   transition: background 0.45s ease, border-color 0.45s ease,
@@ -372,7 +371,6 @@ main {
   padding: 1.1rem 1rem;
   border-radius: 1rem;
   border: 1px solid rgba(255, 255, 255, 0.13);
-  /* тёмная тема: один угол серый, другой чёрный */
   background: linear-gradient(135deg, #262626 0, #050505 100%);
   font-size: 0.9rem;
   transition: background 0.45s ease, border-color 0.45s ease,
@@ -712,13 +710,20 @@ main {
 
 .reveal {
   opacity: 0;
-  transform: translateY(24px);
   transition: opacity 0.7s ease, transform 0.7s ease;
+}
+
+.reveal.reveal-up:not(.visible) {
+  transform: translateY(24px);
+}
+
+.reveal.reveal-down:not(.visible) {
+  transform: translateY(-24px);
 }
 
 .reveal.visible {
   opacity: 1;
-  transform: translateY(0);
+  transform: translateY(0) !important;
 }
 
 .project-card.revealed-once {

@@ -11,11 +11,11 @@ const TEXT = {
       contact: "Contact",
     },
     ctaHire: "Hire Me",
-    heroBadge: "Fullstack Developer · 15 y.o.",
+    heroBadge: "Frontend Developer · 15 y.o.",
     heroTitleLine1: "Hello!",
     heroTitleLine2: "I'm",
     heroSubtitle:
-      "Young fullstack developer from Bishkek, Kyrgyzstan. I design and build clean, fast and modern web applications — from idea to production.",
+      "Young frontend developer from Bishkek, Kyrgyzstan. I design and build clean, fast and modern web applications — from idea to production.",
     heroViewProjects: "View Projects",
     heroCollaborate: "Let's Collaborate",
     metaLocationLabel: "Location",
@@ -23,7 +23,7 @@ const TEXT = {
     metaStatusLabel: "Status",
     metaStatusValue: "Available for Hire",
     metaFocusLabel: "Focus",
-    metaFocusValue: "Fullstack · UI/UX · Performance",
+    metaFocusValue: "Frontend · UI/UX · Performance",
     currentFocus: "Current Focus",
     focusList: [
       "Advanced React applications",
@@ -37,11 +37,11 @@ const TEXT = {
     statYearsCoding: "Years coding",
     aboutTitle: "About Me",
     aboutSubtitle:
-      "Passionate 15‑year‑old fullstack developer, learning fast and building real products for real people.",
+      "Passionate 15‑year‑old frontend developer, learning fast and building real products for real people.",
     aboutP1:
       "I am a student developer from Bishkek, Kyrgyzstan, focused on creating clean, functional and visually striking web experiences. I combine a strong sense of design with solid engineering practices to build scalable and maintainable applications.",
     aboutP2:
-      "My goal is to join a leading tech company as a fullstack developer, work with talented teams, and ship products that solve real‑world problems. Until then, I keep improving through freelancing, courses, and personal projects.",
+      "My goal is to join a leading tech company as a frontend developer, work with talented teams, and ship products that solve real‑world problems. Until then, I keep improving through freelancing, courses, and personal projects.",
     goalsLabel: "Goals",
     goalsList: [
       "Become a top‑tier developer",
@@ -81,7 +81,7 @@ const TEXT = {
     achievements: {
       young: {
         label: "Young Developer",
-        text: "15‑year‑old fullstack developer in the community.",
+        text: "15‑year‑old frontend developer in the community.",
       },
       freelance: {
         label: "Freelance Success",
@@ -123,11 +123,11 @@ const TEXT = {
       contact: "Контакты",
     },
     ctaHire: "Нанять меня",
-    heroBadge: "Fullstack‑разработчик · 15 лет",
+    heroBadge: "Frontend‑разработчик · 15 лет",
     heroTitleLine1: "Hello!",
     heroTitleLine2: "Я",
     heroSubtitle:
-      "Молодой fullstack‑разработчик из Бишкека. Создаю чистые, быстрые и современные веб‑приложения — от идеи до продакшена.",
+      "Молодой frontend‑разработчик из Бишкека. Создаю чистые, быстрые и современные веб‑приложения — от идеи до продакшена.",
     heroViewProjects: "Посмотреть проекты",
     heroCollaborate: "Сотрудничать",
     metaLocationLabel: "Локация",
@@ -135,7 +135,7 @@ const TEXT = {
     metaStatusLabel: "Статус",
     metaStatusValue: "Открыт для предложений",
     metaFocusLabel: "Фокус",
-    metaFocusValue: "Fullstack · UI/UX · Производительность",
+    metaFocusValue: "Frontend · UI/UX · Производительность",
     currentFocus: "Текущий фокус",
     focusList: [
       "Продвинутые React‑приложения",
@@ -149,11 +149,11 @@ const TEXT = {
     statYearsCoding: "Лет опыта",
     aboutTitle: "Обо мне",
     aboutSubtitle:
-      "Увлечённый 15‑летний fullstack‑разработчик, который быстро учится и делает реальные проекты.",
+      "Увлечённый 15‑летний frontend‑разработчик, который быстро учится и делает реальные проекты.",
     aboutP1:
       "Я начинающий разработчик из Бишкека, Кыргызстан. Люблю создавать аккуратные, понятные и визуально сильные веб‑интерфейсы. Совмещаю чувство дизайна с инженерным подходом, чтобы делать масштабируемые приложения.",
     aboutP2:
-      "Моя цель — работать fullstack‑разработчиком в крупной IT‑компании, создавать продукты, которые решают реальные задачи. Пока я к этому иду — через фриланс, курсы и собственные проекты.",
+      "Моя цель — работать frontend‑разработчиком в крупной IT‑компании, создавать продукты, которые решают реальные задачи. Пока я к этому иду — через фриланс, курсы и собственные проекты.",
     goalsLabel: "Цели",
     goalsList: [
       "Стать топовым разработчиком",
@@ -193,7 +193,7 @@ const TEXT = {
     achievements: {
       young: {
         label: "Молодой разработчик",
-        text: "15‑летний fullstack‑разработчик в сообществе.",
+        text: "15‑летний frontend‑разработчик в сообществе.",
       },
       freelance: {
         label: "Успехи во фрилансе",
@@ -235,11 +235,11 @@ const TEXT = {
       contact: "Байланыш",
     },
     ctaHire: "Ишке чакыруу",
-    heroBadge: "Fullstack‑долбоорчу · 15 жаш",
+    heroBadge: "Frontend‑долбоорчу · 15 жаш",
     heroTitleLine1: "Hello!",
     heroTitleLine2: "Мен",
     heroSubtitle:
-      "Бишкектен чыккан жаш fullstack‑долбоорчу. Идеядан тартып продакшнга чейинки замандын талабына ылайык веб‑приложениелерди түзөм.",
+      "Бишкектен чыккан жаш frontend‑долбоорчу. Идеядан тартып продакшнга чейинки замандын талабына ылайык веб‑приложениелерди түзөм.",
     heroViewProjects: "Проекттерди көрүү",
     heroCollaborate: "Келгиле, иштешели",
     metaLocationLabel: "Дарек",
@@ -247,7 +247,7 @@ const TEXT = {
     metaStatusLabel: "Статус",
     metaStatusValue: "Жумушка жана долбоорлорго ачык",
     metaFocusLabel: "Фокус",
-    metaFocusValue: "Fullstack · UI/UX · Өндүрүмдүүлүк",
+    metaFocusValue: "Frontend · UI/UX · Өндүрүмдүүлүк",
     currentFocus: "Азыркы фокус",
     focusList: [
       "Татаал React‑приложениелер",
@@ -261,11 +261,11 @@ const TEXT = {
     statYearsCoding: "Жыл код жазуу",
     aboutTitle: "Жөнүндө",
     aboutSubtitle:
-      "15 жаштагы fullstack‑долбоорчу. Тез үйрөнөм, чыныгы колдонуучулар үчүн чыныгы продукттарды жасайм.",
+      "15 жаштагы frontend‑долбоорчу. Тез үйрөнөм, чыныгы колдонуучулар үчүн чыныгы продукттарды жасайм.",
     aboutP1:
       "Мен Бишкектен чыккан жаш программистмин. Таза, түшүнүктүү жана кооз веб‑интерфейстерди түзгөндү жактырам. Дизайн жана инженердик ой жүгүртүүнү айкалыштырып, масштабдалуучу колдонмолорду жазам.",
     aboutP2:
-      "Максатым — белгилүү IT‑компанияда fullstack‑долбоорчу болуп иштеп, көйгөйлөрдү чече турган продукттарды чыгаруу. Азырынча бул максатка фриланс, курстар жана жеке проекттер аркылуу жетип жатам.",
+      "Максатым — белгилүү IT‑компанияда frontend‑долбоорчу болуп иштеп, көйгөйлөрдү чече турган продукттарды чыгаруу. Азырынча бул максатка фриланс, курстар жана жеке проекттер аркылуу жетип жатам.",
     goalsLabel: "Максаттар",
     goalsList: [
       "Күчтүү, тажрыйбалуу разработчик болуу",
@@ -305,7 +305,7 @@ const TEXT = {
     achievements: {
       young: {
         label: "Жаш разработчик",
-        text: "Комьюнити ичинде 15 жаштагы fullstack‑долбоорчу.",
+        text: "Комьюнити ичинде 15 жаштагы frontend‑долбоорчу.",
       },
       freelance: {
         label: "Фриланста тажрыйба",
@@ -358,20 +358,65 @@ function App() {
   };
 
   useEffect(() => {
+    let lastScrollY = window.scrollY;
+    const scrollDirection = { current: "down" };
+
+    const handleScroll = () => {
+      const currentScrollY = window.scrollY;
+      if (Math.abs(currentScrollY - lastScrollY) > 3) {
+        scrollDirection.current = currentScrollY > lastScrollY ? "down" : "up";
+        lastScrollY = currentScrollY;
+      }
+    };
+
+    window.addEventListener("scroll", handleScroll, { passive: true });
+
     const observer = new IntersectionObserver(
       (entries) => {
         entries.forEach((entry) => {
           if (entry.isIntersecting) {
-            entry.target.classList.add("visible", "revealed-once");
-            observer.unobserve(entry.target);
+            const element = entry.target;
+            const wasVisible = element.classList.contains("visible");
+            
+            if (!wasVisible) {
+              element.classList.remove("reveal-up", "reveal-down");
+              
+              const rect = entry.boundingClientRect;
+              const viewportCenter = window.innerHeight / 2;
+              
+              const enteringFromBottom = rect.top > viewportCenter;
+              
+              if (scrollDirection.current === "down" || enteringFromBottom) {
+                element.classList.add("reveal-up");
+              } else {
+                element.classList.add("reveal-down");
+              }
+              
+              requestAnimationFrame(() => {
+                element.classList.add("visible");
+              });
+            }
           }
         });
       },
       { threshold: 0.18 }
     );
 
-    document.querySelectorAll(".reveal").forEach((el) => observer.observe(el));
-    return () => observer.disconnect();
+    document.querySelectorAll(".reveal").forEach((el) => {
+      const rect = el.getBoundingClientRect();
+      const isVisible = rect.top < window.innerHeight && rect.bottom > 0;
+      
+      if (isVisible && !el.classList.contains("visible")) {
+        el.classList.add("reveal-up", "visible");
+      } else {
+        observer.observe(el);
+      }
+    });
+    
+    return () => {
+      observer.disconnect();
+      window.removeEventListener("scroll", handleScroll);
+    };
   }, []);
 
   const year = new Date().getFullYear();
@@ -578,7 +623,7 @@ function App() {
             <div className="stack-group reveal">
               <h3>{t.techSpecial}</h3>
               <ul>
-                <li>Fullstack development</li>
+                <li>Frontend development</li>
                 <li>Responsive design</li>
                 <li>UI/UX design</li>
                 <li>Performance optimisation</li>
